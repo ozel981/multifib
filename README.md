@@ -1,7 +1,10 @@
 # multi-fib
 
-[H](home.png)
+## Home page strony
+![H](home.png)
 
-[H](OtherPage.png)
+## Other page strona
+![H](OtherPage.png)
 
-[H](cmd.png)
+## Wyświetlenie informacji o środowiskach
+![H](cmd.png)
